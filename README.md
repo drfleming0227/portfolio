@@ -51,19 +51,17 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top"><a href="https://web.archive.org/web/20130513223532/http://docs.rackspace.com/servers/api/v2/cs-devguide/content/index.html" title="https://web.archive.org/web/20130513223532/http://docs.rackspace.com/servers/api/v2/cs-devguide/content/index.html"><i>Next Generation Cloud Servers™ Developer Guide</i></a></td>
       </tr>
       <tr>
-         <td align="left" valign="top"><b>Informatica</b></td>
+         <td align="left" valign="top" rowspan="3"><b>Informatica</b></td>
          <td align="left" valign="top">2011</td>
          <td align="left" valign="top">Guide</td>
          <td align="left" valign="top"><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/IntroductionToILMTestDataManagement.pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/IntroductionToILMTestDataManagement.pdf"><i>Introduction to ILM Test Data Management</i></a></td>
       </tr>
       <tr>
-         <td align="left" valign="top"><b>Informatica</b></td>
          <td align="left" valign="top">2011</td>
          <td align="left" valign="top">Guide and reference</td>
          <td align="left" valign="top"><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/pwxcmdCommands.pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/pwxcmdCommands.pdf"><i>pwxcmd Commands</i></a></td>
       </tr>
       <tr>
-         <td align="left" valign="top"><b>Informatica</b></td>
          <td align="left" valign="top">2010</td>
          <td align="left" valign="top">
             <p>Guide and reference</p>
