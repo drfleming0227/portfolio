@@ -18,7 +18,7 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top"><a href="https://www.dmtf.org/sites/default/files/standards/documents/DSP2055_1.0.0.pdf"><i>Quick Start for Authoring Redfish Schema</i></a></td>
          <td align="left" valign="top">How to</td>
       </tr>
- <!--      <tr>
+      <!--      <tr>
          <td align="left" valign="top" rowspan="5"><b>PayPal</b></td>
          <td align="left" valign="top" rowspan="3">2019</td>
          <td align="left" valign="top"><a href="https://web.archive.org/web/20190502194619if_/https:/developer.paypal.com/docs/api/overview/"><i>PayPal Developer - Get Started</i></a></td>
@@ -47,22 +47,30 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td />
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722200517/https:/developer.paypal.com/docs/api/customer-disputes/v1/"><i>PayPal Developer - Disputes API</i></a></td>
          <td />
-      </tr>
+      </tr>-->
       <tr>
          <td align="left" valign="top"><b>Rackspace</b></td>
          <td align="left" valign="top">2013</td>
          <td align="left" valign="top"><a href="https://web.archive.org/web/20130513223532/http://docs.rackspace.com/servers/api/v2/cs-devguide/content/index.html"><i>Next Generation Cloud Servers™ Developer Guide</i></a></td>
-         <td align="left" valign="top"><b>Rackspace</b></td>
          <td align="left" valign="top">Guide</td>
-      </tr> -->
+      </tr>
+      <tr>
+         <td align="left" valign="top" rowspan="3"><b>Informatica</b></td>
+         <td align="left" valign="top" rowspan="2">2011</td>
+         <td align="left" valign="top"><i>Introduction to ILM Test Data Management</i></td>
+         <td align="left" valign="top">Guide</td>
+      </tr>
+      <tr>
+         <td />
+         <td />
+         <td align="left" valign="top"><i>pwxcmd Commands</i></td>
+         <td align="left" valign="top">Guide and reference</td>
+      </tr>
+      <tr>
+         <td />
+         <td align="left" valign="top" rowspan="2">2010</td>
+         <td align="left" valign="top"><ul><li><i>Informatica PowerExchange Navigator User Guide</i> (before rewrite)</li><li><i>Informatica PowerExchange Navigator User Guide</i> (after rewrite)</li></ul></td>
+         <td align="left" valign="top">Guide and reference</td>
+      </tr>
    </tbody>
 </table>
-
-| **Company** | **Year** | **Title** | **File in ZIP** |
-| :--- | :--- | :--- | :--- |
-| **Informatica** | 2011 | _Introduction to ILM Test Data Management_ | IntroductionToILMTestDataManagement.pdf |
-| **Informatica** | 2011 | _pwxcmd Commands_ | pwxcmdCommands.pdf |
-| **Informatica** | 2010 | _Informatica PowerExchange Navigator User Guide_ | In **book\_rewrite** folder:
-- PWXNavigatorUserGuide(after\_rewrite).pdf
-- PWXNavigatorUserGuide(before\_rewrite).pdf
- |
