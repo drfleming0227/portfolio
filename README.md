@@ -21,19 +21,12 @@ Copyright 2021 Diane Skwish. All rights reserved.
       <tr>
          <td align="left" valign="top"><b>PayPal</b></td>
          <td align="left" valign="top">2019</td>
-         <td align="left" valign="top"><a href="https://web.archive.org/web/20190502194619if_/https:/developer.paypal.com/docs/api/overview/"><i>PayPal Developer - Get Started</i></a></td>
-         <td align="left" valign="top">Get started guide</td>
-      </tr>
-      <tr>
-         <td align="left" valign="top"><b>PayPal</b></td>
-         <td align="left" valign="top">2019</td>
-         <td align="left" valign="top"><a href="https://web.archive.org/web/20190607211049/https:/developer.paypal.com/docs/api/reference/api-requests/"><i>PayPal Developer - API Requests</i></a></td>
-         <td align="left" valign="top">Get started guide</td>
-      </tr>
-      <tr>
-         <td align="left" valign="top"><b>PayPal</b></td>
-         <td align="left" valign="top">2019</td>
-         <td align="left" valign="top"><a href="https://web.archive.org/web/20200722200441/https:/developer.paypal.com/docs/api/reference/api-responses/"><i>PayPal Developer - API Responses</i></a></td>
+         <td align="left" valign="top">
+            <ul>
+               <li><a href="https://web.archive.org/web/20190502194619if_/https:/developer.paypal.com/docs/api/overview/"><i>PayPal Developer - Get Started</i></a></li>
+               <li><a href="https://web.archive.org/web/20190607211049/https:/developer.paypal.com/docs/api/reference/api-requests/"><i>PayPal Developer - API Requests</i></a></li>
+               <li><a href="https://web.archive.org/web/20200722200441/https:/developer.paypal.com/docs/api/reference/api-responses/"><i>PayPal Developer - API Responses</i></a></li>
+         </td>
          <td align="left" valign="top">Get started guide</td>
       </tr>
       <tr>
