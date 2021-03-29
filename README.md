@@ -18,13 +18,13 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top"><a href="https://www.dmtf.org/sites/default/files/standards/documents/DSP2055_1.0.0.pdf"><i>Quick Start for Authoring Redfish Schema</i></a></td>
          <td align="left" valign="top">How to</td>
       </tr>
-      <!--      <tr>
-         <td align="left" valign="top" rowspan="5"><b>PayPal</b></td>
-         <td align="left" valign="top" rowspan="3">2019</td>
-         <td align="left" valign="top"><a href="https://web.archive.org/web/20190502194619if_/https:/developer.paypal.com/docs/api/overview/"><i>PayPal Developer - Get Started</i></a></td>
-         <td align="left" valign="top" rowspan="3">Get started guide</td>
-      </tr>
       <tr>
+         <td align="left" valign="top"><b>PayPal</b></td>
+         <td align="left" valign="top">2019</td>
+         <td align="left" valign="top"><a href="https://web.archive.org/web/20190502194619if_/https:/developer.paypal.com/docs/api/overview/"><i>PayPal Developer - Get Started</i></a></td>
+         <td align="left" valign="top">Get started guide</td>
+      </tr>
+      <!--      <tr>
          <td />
          <td />
          <td align="left" valign="top"><a href="https://web.archive.org/web/20190607211049/https:/developer.paypal.com/docs/api/reference/api-requests/"><i>PayPal Developer - API Requests</i></a></td>
