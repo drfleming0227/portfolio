@@ -57,7 +57,7 @@ Copyright 2021 Diane Skwish. All rights reserved.
       <tr>
          <td align="left" valign="top"><b>Informatica</b></td>
          <td align="left" valign="top">2011</td>
-         <td align="left" valign="top"><i>Introduction to ILM Test Data Management</i></td>
+         <td align="left" valign="top"><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/IntroductionToILMTestDataManagement.pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/IntroductionToILMTestDataManagement.pdf"><i>Introduction to ILM Test Data Management</i></a></td>
          <td align="left" valign="top">Guide</td>
       </tr>
       <!-- <tr>
