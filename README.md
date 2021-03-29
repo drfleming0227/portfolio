@@ -25,17 +25,26 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top" colspan="3">Get started guide</td>
       </tr>
       <tr>
+         <td />
+         <td />
          <td align="left" valign="top"><a href="https://web.archive.org/web/20190607211049/https:/developer.paypal.com/docs/api/reference/api-requests/"><i>PayPal Developer - API Requests</i></a></td>
+         <td />
       </tr>
       <tr>
+         <td />
+         <td />
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722200441/https:/developer.paypal.com/docs/api/reference/api-responses/"><i>PayPal Developer - API Responses</i></a></td>
+         <td />
       </tr>
       <tr>
+         <td />
          <td align="left" valign="top" colspan="2">2018</td>
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722194350/https:/developer.paypal.com/docs/api/invoicing/v2/"><i>PayPal Developer - Invoices API</i></a></td>
          <td align="left" valign="top">Reference</td>
       </tr>
       <tr>
+         <td />
+         <td />
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722200517/https:/developer.paypal.com/docs/api/customer-disputes/v1/"><i>PayPal Developer - Disputes API</i></a></td>
          <td align="left" valign="top">Reference</td>
       </tr>
