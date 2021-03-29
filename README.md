@@ -18,7 +18,7 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top"><a href="https://www.dmtf.org/sites/default/files/standards/documents/DSP2055_1.0.0.pdf"><i>Quick Start for Authoring Redfish Schema</i></a></td>
          <td align="left" valign="top">How to</td>
       </tr>
-      <tr>
+ <!--      <tr>
          <td align="left" valign="top" rowspan="5"><b>PayPal</b></td>
          <td align="left" valign="top" rowspan="3">2019</td>
          <td align="left" valign="top"><a href="https://web.archive.org/web/20190502194619if_/https:/developer.paypal.com/docs/api/overview/"><i>PayPal Developer - Get Started</i></a></td>
@@ -40,13 +40,13 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td />
          <td align="left" valign="top" rowspan="2">2018</td>
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722194350/https:/developer.paypal.com/docs/api/invoicing/v2/"><i>PayPal Developer - Invoices API</i></a></td>
-         <td align="left" valign="top">Reference</td>
+         <td align="left" valign="top" rowspan="2">Reference</td>
       </tr>
       <tr>
          <td />
          <td />
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722200517/https:/developer.paypal.com/docs/api/customer-disputes/v1/"><i>PayPal Developer - Disputes API</i></a></td>
-         <td align="left" valign="top">Reference</td>
+         <td />
       </tr>
       <tr>
          <td align="left" valign="top"><b>Rackspace</b></td>
@@ -54,7 +54,7 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top"><a href="https://web.archive.org/web/20130513223532/http://docs.rackspace.com/servers/api/v2/cs-devguide/content/index.html"><i>Next Generation Cloud Servers™ Developer Guide</i></a></td>
          <td align="left" valign="top"><b>Rackspace</b></td>
          <td align="left" valign="top">Guide</td>
-      </tr>
+      </tr> -->
    </tbody>
 </table>
 
