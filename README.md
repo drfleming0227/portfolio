@@ -26,7 +26,6 @@ Copyright 2021 Diane Skwish. All rights reserved.
          </td>
       </tr>
       <tr>
-        <td/>
          <td align="left" valign="top">2019</td>
          <td align="left" valign="top">Reference</td>
          <td align="left" valign="top">
@@ -36,13 +35,11 @@ Copyright 2021 Diane Skwish. All rights reserved.
          </td>
       </tr>
       <tr>
-        <td/>
          <td align="left" valign="top">2018</td>
          <td align="left" valign="top">Reference</td>
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722194350/https:/developer.paypal.com/docs/api/invoicing/v2/" title="https://web.archive.org/web/20200722194350/https:/developer.paypal.com/docs/api/invoicing/v2/"><i>PayPal Developer - Invoices API</i></a></td>
       </tr>
       <tr>
-        <td/>
          <td align="left" valign="top">2018</td>
          <td align="left" valign="top">Reference</td>
          <td align="left" valign="top"><a href="https://web.archive.org/web/20200722200517/https:/developer.paypal.com/docs/api/customer-disputes/v1/" title="https://web.archive.org/web/20200722200517/https:/developer.paypal.com/docs/api/customer-disputes/v1/"><i>PayPal Developer - Disputes API</i></a></td>
