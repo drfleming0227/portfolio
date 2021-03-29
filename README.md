@@ -55,12 +55,12 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top">Guide</td>
       </tr>
       <tr>
-         <td align="left" valign="top" rowspan="3"><b>Informatica</b></td>
-         <td align="left" valign="top" rowspan="2">2011</td>
+         <td align="left" valign="top"><b>Informatica</b></td>
+         <td align="left" valign="top">2011</td>
          <td align="left" valign="top"><i>Introduction to ILM Test Data Management</i></td>
          <td align="left" valign="top">Guide</td>
       </tr>
-      <tr>
+      <!-- <tr>
          <td />
          <td />
          <td align="left" valign="top"><i>pwxcmd Commands</i></td>
@@ -71,6 +71,6 @@ Copyright 2021 Diane Skwish. All rights reserved.
          <td align="left" valign="top" rowspan="2">2010</td>
          <td align="left" valign="top"><ul><li><i>Informatica PowerExchange Navigator User Guide</i> (before rewrite)</li><li><i>Informatica PowerExchange Navigator User Guide</i> (after rewrite)</li></ul></td>
          <td align="left" valign="top">Guide and reference</td>
-      </tr>
+      </tr> -->
    </tbody>
 </table>
