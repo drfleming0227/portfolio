@@ -1,6 +1,8 @@
 Copyright 2021 Diane Skwish. All rights reserved.
 
-# Diane Skwish writing samples
+# Diane Skwish
+
+## Writing samples
 
 <table>
    <thead>
@@ -76,3 +78,7 @@ Copyright 2021 Diane Skwish. All rights reserved.
       </tr>
    </tbody>
 </table>
+
+## LinkedIn profile
+
+[Diane Skwish LinkedIn profile](https://www.linkedin.com/in/diane-fleming-skwish-107801 "https://www.linkedin.com/in/diane-fleming-skwish-107801")
