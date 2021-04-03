@@ -2,6 +2,10 @@ Copyright 2021 Diane Skwish. All rights reserved.
 
 # Diane Skwish
 
+## Resume
+
+[Diane Skwish resume](dianeskwish_resume_2021.pdf "dianeskwish_resume_2021.pdf")
+
 ## Writing samples
 
 <table>
