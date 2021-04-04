@@ -3,7 +3,7 @@ Copyright 2021 Diane Skwish. All rights reserved.
 # Diane Skwish
 
 * [Resume](#resume)
-* [Writine samples](#writing-samples)
+* [Writing samples](#writing-samples)
 * [LinkedIn profile](#linkedin-profile)
 
 ## Resume
