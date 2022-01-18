@@ -1,4 +1,4 @@
-Copyright 2021 Diane Skwish. All rights reserved.
+Copyright 2021-2022 Diane Skwish. All rights reserved.
 
 # Diane Skwish
 
