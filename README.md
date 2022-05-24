@@ -2,13 +2,9 @@ Copyright 2021-2022 Diane Skwish. All rights reserved.
 
 # Diane Skwish
 
-* [Resume](#resume)
-* [Writing samples](#writing-samples)
-* [LinkedIn profile](#linkedin-profile)
+## [Diane Skwish resume](dianeskwish_resume_2022.pdf "dianeskwish_resume_2022.pdf")
 
-## Resume
-
-[Diane Skwish resume](dianeskwish_resume_2022.pdf "dianeskwish_resume_2022.pdf")
+## [Diane Skwish LinkedIn profile](https://www.linkedin.com/in/diane-fleming-skwish-107801 "https://www.linkedin.com/in/diane-fleming-skwish-107801")
 
 ## Writing samples
 
@@ -86,7 +82,3 @@ Copyright 2021-2022 Diane Skwish. All rights reserved.
       </tr>
    </tbody>
 </table>
-
-## LinkedIn profile
-
-[Diane Skwish LinkedIn profile](https://www.linkedin.com/in/diane-fleming-skwish-107801 "https://www.linkedin.com/in/diane-fleming-skwish-107801")
