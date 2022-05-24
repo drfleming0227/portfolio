@@ -8,7 +8,7 @@ Copyright 2021-2022 Diane Skwish. All rights reserved.
 
 ## Resume
 
-[Diane Skwish resume](dianeskwish_resume_2022.pdf "dianeskwish_resume_2022.pdf")
+<a href="dianeskwish_resume_2022.pdf" target="_blank">Diane Skwish resume</a>
 
 ## Writing samples
 
