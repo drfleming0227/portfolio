@@ -68,15 +68,15 @@ Copyright 2021-2022 Diane Fleming Skwish. All rights reserved.
          <td align="left" valign="top"><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/pwxcmdCommands.pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/pwxcmdCommands.pdf"><i>pwxcmd Commands</i></a></td>
       </tr>
       <tr>
-         <td align="left" valign="top">2010</td>
+         <td align="left" valign="top">2011</td>
          <td align="left" valign="top">
             <p>Guide and reference</p>
             <p>Rewrote from scratch and moved from Framemaker to XML/DITA.</p>
          </td>
          <td align="left" valign="top">
             <ul>
-               <li><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf"><i>Informatica PowerExchange Navigator User Guide</i> (before rewrite)</a></li>
                <li><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(after_rewrite).pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(after_rewrite).pdf"><i>Informatica PowerExchange Navigator User Guide</i> (after rewrite)</a></li>
+               <li><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf"><i>Informatica PowerExchange Navigator User Guide</i> (before rewrite)</a></li>
             </ul>
          </td>
       </tr>
