@@ -75,8 +75,8 @@ Copyright 2021-2022 Diane Fleming Skwish. All rights reserved.
          </td>
          <td align="left" valign="top">
             <ul>
-               <li><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(after_rewrite).pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(after_rewrite).pdf"><i>Informatica PowerExchange Navigator User Guide</i> (after rewrite)</a></li>
-               <li><a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf"><i>Informatica PowerExchange Navigator User Guide</i> (before rewrite)</a></li>
+               <li><b>AFTER:</b> <a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(after_rewrite).pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(after_rewrite).pdf"><i>Informatica PowerExchange Navigator User Guide</i></a></li>
+               <li><b>BEFORE:</b> <a href="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf" title="https://github.com/drfleming0227/portfolio/blob/main/tech-writing/book_rewrite/PWXNavigatorUserGuide(before_rewrite).pdf"><i>Informatica PowerExchange Navigator User Guide</i></a></li>
             </ul>
          </td>
       </tr>
