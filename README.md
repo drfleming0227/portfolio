@@ -1,6 +1,6 @@
-Copyright 2021-2022 Diane Skwish. All rights reserved.
+Copyright 2021-2022 Diane Fleming Skwish. All rights reserved.
 
-# Diane Skwish
+# Diane Fleming Skwish
 
 ## [Resume](dianeskwish_resume_2022.pdf "dianeskwish_resume_2022.pdf")
 
