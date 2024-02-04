@@ -2,7 +2,7 @@ Copyright 2021-2022 Diane Fleming Skwish. All rights reserved.
 
 # Diane Fleming Skwish
 
-## [Resume](dianeskwish_resume_2022.pdf "dianeskwish_resume_2022.pdf")
+## [Resume](dianeskwish_resume_2024.pdf "dianeskwish_resume_2024.pdf")
 
 ## [LinkedIn profile](https://www.linkedin.com/in/diane-fleming-skwish-107801 "https://www.linkedin.com/in/diane-fleming-skwish-107801")
 
