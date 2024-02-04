@@ -21,8 +21,8 @@ Copyright 2021-2022 Diane Fleming Skwish. All rights reserved.
      <tr>
          <td align="left" valign="top"><b>Indeed</b></td>
          <td align="left" valign="top">2023</td>
-         <td align="left" valign="top">How to</td>
-         <td align="left" valign="top"><a href="https://www.dmtf.org/sites/default/files/standards/documents/DSP2055_1.0.0.pdf" title="https://www.dmtf.org/sites/default/files/standards/documents/DSP2055_1.0.0.pdf"><i>Quick Start for Authoring Redfish Schema</i></a></td>
+         <td align="left" valign="top">Guide</td>
+         <td align="left" valign="top"><a href="https://docs.indeed.com/dev/docs/authentication-landing-page">Authentication</a></td>
       </tr>
       <tr>
          <td align="left" valign="top"><b>Brightleaf</b></td>
