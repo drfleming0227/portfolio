@@ -121,7 +121,7 @@ Copyright 2021-2024 Diane Fleming Skwish. All rights reserved.
       </td>
       <td align="left" valign="top">2011</td>
       <td align="left" valign="top">
-        <p>Guide, with conceptual information.</p>
+        <p>Guide, with conceptual information</p>
         <p>Wrote from scratch while the product was in initial development.</p>
       </td>
       <td align="left" valign="top">
