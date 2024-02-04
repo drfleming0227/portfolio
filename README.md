@@ -19,10 +19,16 @@ Copyright 2021-2022 Diane Fleming Skwish. All rights reserved.
    </thead>
    <tbody>
      <tr>
-         <td align="left" valign="top"><b>Indeed</b></td>
-         <td align="left" valign="top">2023</td>
-         <td align="left" valign="top">Guide</td>
+         <td align="left" valign="top" rowspan="3"><b>Indeed</b></td>
+         <td align="left" valign="top" rowspan="3">2023</td>
+         <td align="left" valign="top" rowspan="3">Guides and references</td>
          <td align="left" valign="top"><a href="https://docs.indeed.com/dev/docs/authentication-landing-page">Authentication</a></td>
+      </tr>
+      <tr>
+         <td align="left" valign="top"><a href="https://docs.indeed.com/dev/docs/job-sync-api-landing-page">Job Sync API</a></td>
+      </tr>
+      <tr>
+         <td align="left" valign="top"><a href="https://docs.indeed.com/dev/docs/disposition-sync-landing-page">Disposition Sync API</a></td>
       </tr>
       <tr>
          <td align="left" valign="top"><b>Brightleaf</b></td>
