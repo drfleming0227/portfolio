@@ -19,11 +19,11 @@ Copyright 2021-2024 Diane Fleming Skwish. All rights reserved.
   </thead>
   <tbody>
     <tr>
-      <td align="left" valign="top" rowspan="3">
+      <td align="left" valign="top" rowspan="4">
         <b>Indeed</b>
       </td>
-      <td align="left" valign="top" rowspan="3">2023</td>
-      <td align="left" valign="top" rowspan="3">Guides and references</td>
+      <td align="left" valign="top" rowspan="4">2022-2024</td>
+      <td align="left" valign="top" rowspan="4">Guides and references</td>
       <td align="left" valign="top">
         <a href="https://docs.indeed.com/dev/docs/authentication-landing-page">
           <i>Authentication</i>
@@ -44,6 +44,9 @@ Copyright 2021-2024 Diane Fleming Skwish. All rights reserved.
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left" valign="top">
+        <a href="https://docs.indeed.com/dev/docs/indeed-interview-landing-page"><i>Indeed Interview API</i></a></td></tr>
     <tr>
       <td align="left" valign="top">
         <b>Brightleaf</b>
