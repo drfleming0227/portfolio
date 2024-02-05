@@ -25,7 +25,7 @@ Copyright 2021-2024 Diane Fleming Skwish. All rights reserved.
       <td align="left" valign="top" rowspan="4">2022-2024</td>
       <td align="left" valign="top" rowspan="4">Guides and references</td>
       <td align="left" valign="top">
-        <a href="[https://docs.indeed.com/authentication](https://docs.indeed.com/authorization/)">
+        <a href="https://docs.indeed.com/authentication/authorization/">
           <i>Authentication</i>
         </a>
       </td>
