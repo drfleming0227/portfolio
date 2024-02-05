@@ -25,7 +25,7 @@ Copyright 2021-2024 Diane Fleming Skwish. All rights reserved.
       <td align="left" valign="top" rowspan="4">2022-2024</td>
       <td align="left" valign="top" rowspan="4">Guides and references</td>
       <td align="left" valign="top">
-        <a href="https://docs.indeed.com/authorization/">
+        <a href="https://docs.indeed.com/authorization">
           <i>Authentication</i>
         </a>
       </td>
@@ -39,14 +39,14 @@ Copyright 2021-2024 Diane Fleming Skwish. All rights reserved.
     </tr>
     <tr>
       <td align="left" valign="top">
-        <a href="https://docs.indeed.com/disposition-sync">
+        <a href="https://docs.indeed.com/disposition-sync-api">
           <i>Disposition Sync API <i>
         </a>
       </td>
     </tr>
     <tr>
       <td align="left" valign="top">
-        <a href="https://docs.indeed.com/indeed-interview"><i>Indeed Interview API</i></a></td></tr>
+        <a href="https://docs.indeed.com/indeed-interview-api"><i>Indeed Interview API</i></a></td></tr>
     <tr>
       <td align="left" valign="top">
         <b>Brightleaf</b>
